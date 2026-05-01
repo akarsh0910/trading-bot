@@ -11,7 +11,7 @@ The project follows a clean modular structure with validation, logging, and erro
 - CLI-based user input
 - Input validation
 - Logging of API requests, responses, and errors
-- Clean modular structure
+
 
 
 ## Project Structure
